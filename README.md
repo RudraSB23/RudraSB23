@@ -23,8 +23,8 @@ I'm a student from India who tinkers with code, plays around with AI, and occasi
 
 ## 📊 GitHub Stats
 
-[![Rudra's GitHub stats](https://github-stats-extended.vercel.app/api?username=anuraghazra)](https://github.com/stats-organization/github-stats-extended)
-[![Rudra's Top Languages](https://github-stats-extended.vercel.app/api/top-langs?username=RudraSB23&layout=compact&langs_count=3&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=RudraSB23&layout=compact&langs_count=3&theme=dark_github)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=RudraSB23&rank_icon=github&hide_title=true&include_all_commits=true&theme=dark_github)](https://github-stats-extended.vercel.app/api?username=RudraSB23&rank_icon=github&hide_title=true&include_all_commits=true&theme=dark_github)
+[![Top Languages](https://github-stats-extended.vercel.app/api/top-langs?username=RudraSB23&layout=compact&langs_count=3&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=RudraSB23&layout=compact&langs_count=3&theme=dark_github)
 
 ---
 
